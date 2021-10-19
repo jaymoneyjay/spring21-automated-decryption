@@ -1,0 +1,8 @@
+venv/*
+.DS_Store
+.idea
+*__pycache__
+playground*
+.ipynb*
+lightning_logs/
+models.zip
